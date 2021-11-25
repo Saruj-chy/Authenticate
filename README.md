@@ -1,2 +1,2 @@
 # Authenticate
-This is a Login-Registration View Project
+This is a Login-Registration UI based Project
