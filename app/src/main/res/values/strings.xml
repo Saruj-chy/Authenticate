@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Authenticate</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="login_to_continue">Login to Continue</string>
+    <string name="reg_to_continue">Registration to Continue</string>
+    <string name="enter_username">Enter your Username</string>
+    <string name="enter_pass">Enter your password</string>
+    <string name="enter_confirm_pass">Enter your confirm password</string>
+
+    <string name="create_account">Create a new Account ?</string>
+    <string name="forget_pass_q">forget password ?</string>
+    <string name="already_acc">Already have an Account ?</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+
+
+    <string name="enter_diag_name_eng">Enter Diagnostic name(English)</string>
+    <string name="enter_diag_name_ban">Enter Diagnostic name(Bangla)</string>
+    <string name="enter_diag_add_eng">Enter Diagnostic address(English)</string>
+    <string name="enter_diag_add_ban">Enter Diagnostic address(Bangla)</string>
+    <string name="enter_contact_num">Enter your Contact number</string>
+    <string name="enter_email">Enter your Email</string>
+    <string name="sel_div_name">Select Division Name</string>
+    <string name="sel_dis_name">Select District Name</string>
+    <string name="sel_sub_dis_name">Select Sub-District Name</string>
+</resources>
